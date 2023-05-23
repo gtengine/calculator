@@ -1,6 +1,6 @@
 # Calculator
 
-앱 개발 연습 프로젝트: 계산기
+앱 개발 연습 프로젝트-2: 계산기
 
 Framework: **Expo**
 
